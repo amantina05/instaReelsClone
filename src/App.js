@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import VideoCard from './VideoCard';
 
 function App() {
   return (
@@ -14,7 +15,10 @@ function App() {
       </div>
       <div className="app_videos">
         {/* container of app videos (scrollable) */}
-        {/* Video */}
+        <VideoCard />
+        <VideoCard />
+        <VideoCard />
+
         {/* Video */}
         {/* Video */}
         {/* Video */}

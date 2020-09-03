@@ -1,0 +1,11 @@
+.videoCard {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  scroll-snap-align: start;
+}
+
+.videoCard_player {
+  height: 100%;
+  width: 100%;
+}
