@@ -1,3 +1,17 @@
+# Insta Reels Clone
+
+## (c) Insta Reels Clone, 2020
+
+### Tina Sosa
+
+#### Check out my deployed web app:
+
+[Insta Reels Clone](https://insta-reels-a34f8.web.app/ 'Insta Reels Clone')
+
+#### Marketing copy:
+
+A webpage that can display instagram reels.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
